@@ -1,0 +1,13 @@
+{
+  "name": "cway-storm-php-deployer",
+  "version": "1.0.0",
+  "description": "storm.dev plugin to deploy PHP projects",
+  "main": "src/index.js",
+  "author": "Fabio Coppola",
+  "license": "ISC",
+  "keywords": [
+    "storm.dev",
+    "php",
+    "deploy"
+  ]
+}
